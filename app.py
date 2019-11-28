@@ -16,7 +16,7 @@ def mainmenu():
     return """
     <html>
     <body>
-    <center><h1>piper training is greate !!!</h1><br/>
+    <center><h1>piper training is supper !!!</h1><br/>
     </body>
     </html>"""
 
